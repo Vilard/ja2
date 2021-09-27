@@ -1,0 +1,1 @@
+mysql vk --batch --execute='select * from users;' > outfile.csv
